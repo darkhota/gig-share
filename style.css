@@ -1743,4 +1743,11 @@ ul {
   .footer-copyright {
     max-width: 160px;
   }
+
+  .footer-list-item {
+    column-gap: 34px;
+  }
+  .footer-row.bottom {
+    margin-bottom: 3rem;
+  }
 }
